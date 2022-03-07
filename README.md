@@ -1,2 +1,2 @@
 # Desarrollo Frontend
-Desarrollo integral BootCamp Innovaccion junto a Microsoft
+Desarrollo integral Bootcamp Innovaccion junto a Microsoft
